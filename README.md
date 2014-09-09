@@ -1,5 +1,7 @@
 # Create Sysadmin Cookbook
 
+[![Apache License 2.0](http://img.shields.io/badge/license-apache%202.0-green.svg)](http://opensource.org/licenses/Apache-2.0)
+
 A simple cookbook that searches the users databag for user with the
 group `sysadmin`. These users are then created on the system and they
 are added to the platform specifc sudo groups and get a sane default
